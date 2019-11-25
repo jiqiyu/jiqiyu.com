@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Please Email or DM me for commission enquiries.
+  Please Email or PM me for commission enquiries.
   Let's go miles ahead and be awesome together.
 
 # A list of keywords for your blog
@@ -51,9 +51,9 @@ menu:
   - title:             Projects
     url:               /projects/
   - title:             Clients
-    url:               /clients
-  - title:             Testimonies
-    url:               /testimonies
+    url:               /clients/
+  - title:             Testimonials
+    url:               /testimonials/
   - title:             About
     url:               /about/
 
