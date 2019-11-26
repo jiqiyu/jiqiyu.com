@@ -3,8 +3,21 @@ layout: post
 title: Illustration
 description: >
   Illustrations and character development
-image: /assets/img/projects/illustration/superman.jpg
+image: /assets/project-gallery/illustration/illustration/superman.jpg
 noindex: true
 ---
 
-{% include illustration-gallery.html folder="/assets/img/projects/illustration" %}
+# Illustration
+
+
+# Animation Short Development
+{% include photo-gallery.html folder="/assets/project-gallery/illustration/animation" %}
+
+# Character Development
+{% include photo-gallery.html folder="/assets/project-gallery/illustration/character" %}
+
+# Illustration
+{% include photo-gallery.html folder="/assets/project-gallery/illustration/illustration" %}
+
+# Doodles
+{% include photo-gallery.html folder="/assets/project-gallery/illustration/doodles" %}

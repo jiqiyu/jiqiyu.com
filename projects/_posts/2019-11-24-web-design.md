@@ -3,7 +3,7 @@ layout: post
 title: Web design
 description: >
   [Darwin City Hotel Website](https://www.darwincityhotel.com){:target="_blank"}
-image: /assets/img/projects/dchweb.png
+image: /assets/project-gallery/dchweb.png
 noindex: true
 ---
 
