@@ -10,5 +10,5 @@ slug: projects
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Previous or on going projects for clients.
+  Previous and on going projects for clients.
 ---
