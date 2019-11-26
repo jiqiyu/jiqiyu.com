@@ -11,6 +11,6 @@ Key tasks of this project including:
 
 - Design the style and layout of the website;
 
-- Add date picker and user interactive booking button to the hotel homepage
+- Add user interactive date picker and  booking button to the hotel homepage
 
 - Fetch hotel room rate from remote server to display spontaneously on the hotel homepage;
