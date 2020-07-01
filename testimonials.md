@@ -35,6 +35,8 @@ Managing Director – Darwin City Hotel
 November 2019 
 
 
+
+
 > Jessica is an awesome web designer.  
 > She has a great talent who can successfully embody the image. Process information quickly and has a tremendous respect for the individual's need. Respond quickly to advertisements on the Internet. Also excellent for designing restaurant and cafe menus.  
 > Highly recommend!!
