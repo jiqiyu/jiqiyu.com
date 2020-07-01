@@ -1,3 +1,9 @@
 {% comment %}<!--
 Use this add elements to the <body/> of the document.
 -->{% endcomment %}
+<script>
+    var links = document.getElementsByTagName("a");
+    for (var i = 0; i < links.length; ++i) {
+      links[i].target = "_top";
+    }
+  </script>
