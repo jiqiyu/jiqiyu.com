@@ -20,3 +20,7 @@ hide_description: true
 
 
 ![City Cafe](/assets/img/citycafe.png)
+
+![Smoke and Oak](/assets/img/smokeandoak.png)
+
+![Nirvana Restaurant](/assets/img/nirvana-restaurant.png)
