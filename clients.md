@@ -16,11 +16,6 @@ hide_description: true
 
 ---
 
-![Darwin City Hotel](/assets/img/DCH.png)
+![Darwin City Hotel](/assets/img/DCH.png)  ![City Cafe](/assets/img/citycafe.png)
 
-
-![City Cafe](/assets/img/citycafe.png)
-
-![Smoke and Oak](/assets/img/smokeandoak.png)
-
-![Nirvana Restaurant](/assets/img/nirvana-restaurant.png)
+![Smoke and Oak](/assets/img/smokeandoak.png)  ![Nirvana Restaurant](/assets/img/nirvana-restaurant.png)
