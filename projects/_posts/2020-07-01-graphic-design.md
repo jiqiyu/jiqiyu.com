@@ -1,0 +1,16 @@
+---
+layout: post
+title: Graphic Design
+description: >
+  Posters, flyers, business cards, vouchers, logos...
+image: /assets/project-gallery/graphic-design/business-cards/JC-DESIGN0.jpg
+noindex: true
+---
+# Graphic Design
+
+
+# Logo
+{% include photo-gallery.html folder="/assets/project-gallery/graphic-design/logo-2020" %}
+
+# Brochure and Flyer
+{% include photo-gallery.html folder="/assets/project-gallery/graphic-design/brochure-and-flyers-2020" %}

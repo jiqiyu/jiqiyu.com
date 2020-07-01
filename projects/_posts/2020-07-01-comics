@@ -1,0 +1,17 @@
+---
+layout: post
+title: Comics
+description: >
+  The comics created by me, feel free to download them on 
+  [Gumroad](https://gumroad.com/athingartstudio){:target="_blank"}
+  And support me if you can :)
+image: 
+noindex: true
+---
+# Comics
+
+# Love Talk
+{% include gumroad-love-talk.html %}
+
+# The Mirror
+{% include gumroad-the-mirror.html %}
