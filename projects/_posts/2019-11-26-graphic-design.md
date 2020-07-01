@@ -3,8 +3,9 @@ layout: post
 title: Graphic Design
 description: >
   Posters, flyers, business cards, vouchers, logos...
-image: /assets/project-gallery/graphic-design/business-cards/JC-DESIGN0.jpg
+image: 
 noindex: true
+hide_description: true
 ---
 # Graphic Design
 
