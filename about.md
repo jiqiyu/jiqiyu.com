@@ -17,6 +17,3 @@ hide_description: true
 # TODO
 image: /assets/img/JC-DESIGN.jpg
 ---
-
-Jessica Chen is an illustrator/graphic designer, currently lives in Darwin Australia. 
-She works closely with clients, is good at turning their ideas into reality, no matter it's building business brand, designing posters, flyers, vouchers or illustrating a concept; she also designs websites, can comfortablely work on the front-end, going from pure CSS & HTML5 to various frameworks.
